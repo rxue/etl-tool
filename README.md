@@ -22,4 +22,4 @@ If there is no existing player, insert that player into the dimension table dire
 ## SUMMARY
 The previous solution is done in Java in the branch https://github.com/rxue/etl-practice/tree/old_java_solution/ 
 
-Thanks to a datawarehouse professional, after his enlightenment, this solution came out with pure SQL, which is much more maintainable than Java.
+Thanks to a datawarehouse professional, after his enlightenment, pure SQL solution, which is much more maintainable than Java, came out.
