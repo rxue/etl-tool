@@ -1,0 +1,13 @@
+local:
+  host: 127.0.0.1
+  username: root
+  password: rairai-passwd
+  port: 3306
+  schema: fa
+
+dev:
+  host: x
+  username: x
+  password: x
+  port: 3306
+  schema: develop
